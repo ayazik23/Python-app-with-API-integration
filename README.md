@@ -40,11 +40,13 @@ bbc-news-app/
 
 - Visit https://newsapi.org/sources to find the list of available news sources.
 - Update this line in app.py:
+    ```bash
     BBC_NEWS_URL = f'https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey={API_KEY}'
-
+    ```
 - Example of CNN:
+    ```bash
     CNN_NEWS_URL = f'https://newsapi.org/v2/top-headlines?sources=cnn&apiKey={API_KEY}'
-
+    ```
 ---
 
 ## License
