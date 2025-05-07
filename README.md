@@ -51,7 +51,7 @@ bbc-news-app/
 
 ## License
 
-MIT License. Feel free to modify and reuse for personal or academic projects.
+Created for educational purpose.
 
 ---
 
