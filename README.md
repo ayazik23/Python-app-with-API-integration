@@ -29,11 +29,11 @@ pip install flask requests
 ## Structure
 
 bbc-news-app/
-├── app.py                 # Main Flask app
-├── output.json            # Saved API response
-├── templates/
-│   └── index.html         # HTML template for displaying news
-└── README.md              # This documentation
+- ├── app.py                 # Main Flask app
+- ├── output.json            # Saved API response
+- ├── templates/
+- │   └── index.html         # HTML template for displaying news
+- └── README.md              # This documentation
 
 ---
 ## API Change 
